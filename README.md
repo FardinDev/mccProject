@@ -56,7 +56,7 @@ Users can send text to the page and the app will response based on the text that
  <img src="https://github.com/FardinDev/mccProject/blob/master/images/grid-d-1.jpg" alt="drawing" width="400"/>
  
  
- <img src="https://github.com/FardinDev/mccProject/blob/master/images/grid-d-1.jpg" alt="drawing" width="400"/>
+ <img src="https://github.com/FardinDev/mccProject/blob/master/images/grid-d-2.jpg" alt="drawing" width="400"/>
  
  
- <img src="https://github.com/FardinDev/mccProject/blob/master/images/grid-d-1.jpg" alt="drawing" width="400"/>
+ <img src="https://github.com/FardinDev/mccProject/blob/master/images/grid-d-3.jpg" alt="drawing" width="400"/>
